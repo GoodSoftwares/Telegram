@@ -2,13 +2,13 @@
 
 ## Latest
 
-- **Version**: 13.1.1
-- **Date**: 2026-11-01 17:26:48 UTC
-- **SHA256**: `148f1aa51b0a76c8168e4ad0eb121a66b78c2b8f50e4dc44e7a667668cf8823b`
+- **Version**: 13.2.0
+- **Date**: 2026-11-05 19:16:06 UTC
+- **SHA256**: `2d1fe6650578aa4e3437c9e775a7e849837f604a7294c6bd66f971d6ba13470e`
 - **Download**:
-  - Github: [https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk](https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk)
-  - Mirror 1 (gh-proxy): [https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk](https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk)
-  - Mirror 2 (axisnow): [https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk](https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk)
+  - Github: [https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk](https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk)
+  - Mirror 1 (gh-proxy): [https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk](https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk)
+  - Mirror 2 (axisnow): [https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk](https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk)
 
 > [!WARNING]
 > **Always check the SHA256 before installing.**
@@ -19,6 +19,7 @@
 
 | Version | SHA256 | Update Time | Download |
 |---------|--------|-------------|----------|
+| 13.2.0 | `2d1fe6650578aa4e3437c9e775a7e849837f604a7294c6bd66f971d6ba13470e` | 2026-11-05 19:16:06 UTC | [Github](https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk) <br> [Mirror 1 (gh-proxy)](https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk) <br> [Mirror 2 (axisnow)](https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.2.0/app.apk) |
 | 13.1.1 | `148f1aa51b0a76c8168e4ad0eb121a66b78c2b8f50e4dc44e7a667668cf8823b` | 2026-11-01 17:26:48 UTC | [Github](https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk) <br> [Mirror 1 (gh-proxy)](https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk) <br> [Mirror 2 (axisnow)](https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.1/app.apk) |
 | 13.1.0 | `4c122bca5edb997e38fc65360c33e6e726e6f1b31ba23987df0adad0e323a9d8` | 2026-10-20 16:05:36 UTC | [Github](https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.0/app.apk) <br> [Mirror 1 (gh-proxy)](https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.0/app.apk) <br> [Mirror 2 (axisnow)](https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.1.0/app.apk) |
 | 13.0.3 | `8f8c6cd824eb47cd23b30e97468ed2a2ab2134130f50362f548bf0da0faf4d0a` | 2026-10-16 15:50:11 UTC | [Github](https://github.com/GoodSoftwares/Telegram/releases/download/v13.0.3/app.apk) <br> [Mirror 1 (gh-proxy)](https://gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.0.3/app.apk) <br> [Mirror 2 (axisnow)](https://axisnow.gh-proxy.org/https://github.com/GoodSoftwares/Telegram/releases/download/v13.0.3/app.apk) |
